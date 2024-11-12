@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.osx": {
+  "OSH_THEME": "iterate"  // Or your chosen theme
+}
+}
